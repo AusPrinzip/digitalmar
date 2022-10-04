@@ -19,7 +19,7 @@ class Team extends HTMLElement {
           <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/team/ceo.jpg" class="img-fluid" alt="">
+                <img src="assets/img/team/david.jpg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -28,7 +28,7 @@ class Team extends HTMLElement {
                 </div>
               </div>
               <div class="member-info">
-                <h4>Carlos Barrios</h4>
+                <h4>David Laurito</h4>
                 <span>Chief Executive Officer</span>
               </div>
             </div>
@@ -37,7 +37,7 @@ class Team extends HTMLElement {
           <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/team/cto.jpeg" class="img-fluid" alt="">
+                <img src="assets/img/team/ana.jpg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -46,7 +46,7 @@ class Team extends HTMLElement {
                 </div>
               </div>
               <div class="member-info">
-                <h4>Pablo Gerbolés</h4>
+                <h4>Ana Fallas</h4>
                 <span>CTO</span>
               </div>
             </div>
