@@ -28,32 +28,31 @@ class Footer extends HTMLElement {
             <h4>Useful Links</h4>
             <ul>
               <li><i class="bi bi-dash"></i> <a href="#">Home</a></li>
-              <li><i class="bi bi-dash"></i> <a href="#">About us</a></li>
-              <li><i class="bi bi-dash"></i> <a href="#">Services</a></li>
-              <li><i class="bi bi-dash"></i> <a href="#">Terms of service</a></li>
-              <li><i class="bi bi-dash"></i> <a href="#">Privacy policy</a></li>
+              <li><i class="bi bi-dash"></i> <a href="/#about">About us</a></li>
+              <li><i class="bi bi-dash"></i> <a href="/#services">Services</a></li>
             </ul>
           </div>
 
           <div class="col-lg-2 col-6 footer-links">
             <h4>Our Services</h4>
             <ul>
-              <li><i class="bi bi-dash"></i> <a href="#">Web Design</a></li>
-              <li><i class="bi bi-dash"></i> <a href="#">Web Development</a></li>
-              <li><i class="bi bi-dash"></i> <a href="#">Product Management</a></li>
-              <li><i class="bi bi-dash"></i> <a href="#">Marketing</a></li>
-              <li><i class="bi bi-dash"></i> <a href="#">Graphic Design</a></li>
+              <li>Web Design</li>
+              <li>Web Development</li>
+              <li>Product Management</li>
+              <li>Marketing</li>
+              <li>Graphic Design</li>
             </ul>
           </div>
 
           <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
             <h4>Contact Us</h4>
             <p>
-              Avenida Ernesto Rohrmoerser número 5<br>
+              San José coronado san Rafael 2km al este de la iglesia católica portón negro oficinas mano derecha
+              <br>
               10109, San José<br>
               Costa Rica <br><br>
               <strong>Phone:</strong> +50663221754<br>
-              <strong>Email:</strong> info@digitalmar.pro<br>
+              <strong>Email:</strong> digitalmarpro@gmail.com<br>
             </p>
 
           </div>
