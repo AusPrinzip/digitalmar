@@ -17,10 +17,8 @@ class Footer extends HTMLElement {
             </a>
             <p>There are 3 principles by which we drive our business: Quality over Quantity, on-time delivery and excellence.</p>
             <div class="social-links d-flex  mt-3">
-              <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-              <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-              <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-              <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+              <a href="https://twitter.com/digitalmarpro" class="twitter"><i class="bi bi-twitter"></i></a>
+              <a href="https://www.linkedin.com/company/digitalmar-pro" class="linkedin"><i class="bi bi-linkedin"></i></a>
             </div>
           </div>
 
@@ -51,7 +49,7 @@ class Footer extends HTMLElement {
               <br>
               10109, San José<br>
               Costa Rica <br><br>
-              <strong>Phone:</strong> +50663221754<br>
+              <strong>Phone:</strong> +50663289240<br>
               <strong>Email:</strong> digitalmarpro@gmail.com<br>
             </p>
 
